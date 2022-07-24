@@ -1,3 +1,4 @@
 amit thakur
 age - 23
 sex-male
+work- working
